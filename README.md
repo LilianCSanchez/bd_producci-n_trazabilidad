@@ -1,5 +1,6 @@
-CASO PROPUESTO
+📊CASO PROPUESTO
 “Sistema de Gestión de Producción y Trazabilidad de Espárrago Fresco para Exportación” 🌱
+
 🌎 Contexto del negocio
 
 La empresa AgroExport Verde Norte SAC es una agroindustrial peruana dedicada a la producción, procesamiento y exportación de espárrago fresco hacia mercados internacionales como Estados Unidos, Europa y Asia.
