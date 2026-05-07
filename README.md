@@ -221,6 +221,7 @@ certificaciones requeridas
 Un cliente puede recibir múltiples despachos.
 
 📈 Reglas de negocio clave
+
 Un campo agrícola puede tener múltiples parcelas
 Una parcela puede generar múltiples cosechas
 Cada cosecha pertenece a una sola parcela
