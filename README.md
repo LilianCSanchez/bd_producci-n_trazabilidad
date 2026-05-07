@@ -33,6 +33,7 @@ rastrear el producto desde el campo hasta el cliente
 controlar calidad y condiciones sanitarias
 gestionar inventarios y despachos
 generar reportes para auditorías y certificaciones internacionales
+
 🎯 Objetivo del sistema
 
 Diseñar una base de datos que permita:
@@ -45,6 +46,7 @@ gestionar controles de calidad
 controlar inventarios en cámaras frigoríficas
 registrar exportaciones y despachos
 realizar trazabilidad completa del espárrago fresco
+
 🧩 Alcance funcional
 
 El sistema debe contemplar las siguientes áreas:
@@ -99,6 +101,7 @@ peso recibido
 peso procesado
 porcentaje de merma
 responsable del proceso
+
 🏷️ 4. Gestión de Lotes y Trazabilidad
 
 La empresa trabaja con lotes para garantizar la trazabilidad completa del producto.
@@ -159,6 +162,7 @@ También se deben registrar:
 incidencias sanitarias
 tratamientos aplicados
 observaciones técnicas
+
 ❄️ 6. Gestión de Inventario y Cámara Fría
 
 Los productos empacados se almacenan en cámaras frigoríficas antes de su exportación.
@@ -180,6 +184,7 @@ El sistema debe permitir controlar:
 stock por lote
 tiempo de permanencia en frío
 ubicación exacta del producto
+
 🚢 7. Exportación y Despachos
 
 Los lotes aprobados son preparados para exportación.
@@ -200,6 +205,7 @@ El sistema debe permitir identificar:
 qué cliente recibió cada lote
 qué contenedor transportó el producto
 historial de exportación por lote
+
 👥 8. Gestión de Clientes y Exportaciones
 
 La empresa exporta a supermercados y distribuidores internacionales.
@@ -227,6 +233,7 @@ Un cliente puede recibir múltiples despachos
 La trazabilidad debe permitir rastrear el espárrago desde la parcela hasta el cliente final
 El control de inventario debe manejarse por lote y ubicación
 Todo lote exportado debe contar con aprobación de calidad
+
 🏢 Áreas involucradas en el sistema
 
 El sistema integrará información de:
@@ -238,6 +245,7 @@ calidad
 almacén
 logística
 exportaciones
+
 🎯 Beneficios esperados
 
 La implementación del sistema permitirá:
