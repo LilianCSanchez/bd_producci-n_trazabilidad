@@ -1,5 +1,5 @@
 📊CASO PROPUESTO
-“Sistema de Gestión de Producción y Trazabilidad de Espárrago Fresco para Exportación” 🌱
+“Sistema de Gestión de Producción y Trazabilidad de mmpp Fresco para Exportación” 🌱
 
 🌎 Contexto del negocio
 
