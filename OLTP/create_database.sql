@@ -440,8 +440,5 @@ LEFT JOIN dbo.fundos               f  ON f.id  = mp.id_fundo
 LEFT JOIN dbo.proveedores          pr ON pr.id = f.id_proveedor
 LEFT JOIN dbo.despachos            d  ON d.id_lote_producto_final = l.id
 LEFT JOIN dbo.clientes             cl ON cl.id = d.id_cliente;
-<<<<<<< HEAD
+
 GO
-=======
-GO 
->>>>>>> 7dd4d80912af2d00e1d017c4afbc80ffec91b63a
